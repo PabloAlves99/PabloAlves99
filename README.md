@@ -28,6 +28,3 @@ Acadêmico de direito em transição para programação e tecnologia!
   
 </div>
 
-![Snake animation](https://github.com/PabloAlves99/PabloAlves99/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/pin/?username=PabloAlves99&theme=react)](https://github.com/PabloAlves99/PabloAlves99)
