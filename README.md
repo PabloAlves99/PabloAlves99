@@ -1,5 +1,4 @@
 <h1>Prazer, sou o Pablo Alves!</h1>
-##
 
 Acadêmico de direito em transição para programação e tecnologia!
 
