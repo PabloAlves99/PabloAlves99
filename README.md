@@ -3,7 +3,7 @@
 Acadêmico de direito em transição para programação e tecnologia!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img padding=50px height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
