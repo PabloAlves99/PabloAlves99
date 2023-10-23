@@ -2,11 +2,11 @@
 
 Acadêmico de direito em transição para programação e tecnologia!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/PabloAlves99/github-readme-stats">
   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlves99&layout=compact&theme=radical&hide=C,batchfile" />
+<a href="https://github.com/PabloAlves99/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlves99&layout=compact&theme=radical&hide=C,Batchfile" />
 </a>
 
 <br>
