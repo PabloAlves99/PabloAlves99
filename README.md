@@ -1,6 +1,6 @@
 <h1>Prazer, sou o Pablo Alves!</h1>
 
-Acadêmico de direito em transição para programação e tecnologia!
+Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conhecimentos e experiência na área de Programação e Tecnologia!
 
 <a href="https://github.com/PabloAlves99">
   <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github" />
