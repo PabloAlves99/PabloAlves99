@@ -1,4 +1,4 @@
-<h1>Prazer, sou o Pablo Alves!</h1>
+<h1 align='center'>Prazer, sou o Pablo Alves!</h1>
 
 Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conhecimentos e experiência na área de Programação e Tecnologia!
 
