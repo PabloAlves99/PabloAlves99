@@ -2,7 +2,7 @@
 
 Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conhecimentos e experiência na área de Programação e Tecnologia!
 
-<div align='center'>
+
   <a href="https://github.com/PabloAlves99">
     <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github"/>
   <br>
@@ -10,7 +10,7 @@ Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conheci
   <a href="https://github.com/PabloAlves99">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlves99&layout=compact&theme=radical&hide=C,Batchfile"/>
   </a>
-</div>
+
   
 <br>
 <div style="display: inline_block:"><br>
