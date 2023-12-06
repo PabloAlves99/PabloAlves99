@@ -23,7 +23,7 @@ Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conheci
 ##
 
 
-<div> 
+<div align='center'> 
   <a href="https://www.instagram.com/pabloalves99_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <!--<a href = "gmail:PabloHAlves99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
   <a href="https://www.linkedin.com/in/pablo-alves-2825b1223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
