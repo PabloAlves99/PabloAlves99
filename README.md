@@ -3,25 +3,25 @@
 Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conhecimentos e experiência na área de Programação e Tecnologia!
 
 
-  <a href="https://github.com/PabloAlves99">
+  <a href="https://github.com/PabloAlves99" target="_blank">
     <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github"/>
   <br>
   </a>
-  <a href="https://github.com/PabloAlves99">
+  <a href="https://github.com/PabloAlves99" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlves99&layout=compact&theme=radical&hide=C,Batchfile"/>
   </a>
 
   
 <br>
 <div style="display: inline_block:"><br>
-  <a href="https://github.com/PabloAlves99/Python">
+  <a href="https://github.com/PabloAlves99/Python" target="_blank">
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-  <a href="https://github.com/PabloAlves99/HTML-CSS">
+  <a href="https://github.com/PabloAlves99/HTML-CSS" target="_blank">
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   </a>
-  <a href="https://github.com/PabloAlves99/CursoJS">
+  <a href="https://github.com/PabloAlves99/CursoJS" target="_blank">
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>  
 </div>
