@@ -1,6 +1,7 @@
-<h1 align='center'>Prazer, sou o Pablo Alves!</h1>
+<h1 align='center'>Prazer, meu nome é Pablo Alves!</h1>
 
-Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conhecimentos e experiência na área de Programação e Tecnologia!
+Sou bacharel em Direito e estou atualmente empenhado em adquirir novos conhecimentos e experiência na área de Programação e Tecnologia!
+
 
 
   <a href="https://github.com/PabloAlves99" target="_blank">
@@ -17,13 +18,16 @@ Sou acadêmico de Direito e estou atualmente empenhado em adquirir novos conheci
   <a href="https://github.com/PabloAlves99/Python" target="_blank">
   <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
+  <a href="https://github.com/PabloAlves99/Laravel-VueJs" target="_blank">
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
+  </a>  
+  <a href="https://github.com/PabloAlves99/CursoJS" target="_blank">
+  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>  
   <a href="https://github.com/PabloAlves99/HTML-CSS" target="_blank">
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   </a>
-  <a href="https://github.com/PabloAlves99/CursoJS" target="_blank">
-  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>  
 </div>
 
 
