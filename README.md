@@ -1,4 +1,6 @@
-<h1 align="center">Prazer, meu nome é Pablo Alves!</h1>
+Loading...
+
+<!-- <h1 align="center">Prazer, meu nome é Pablo Alves!</h1>
 
 
 Sou Analista de Dados, pós-graduando em Engenharia de Dados e bacharel em Direito, com atuação voltada à área de dados e tecnologia.
@@ -42,4 +44,4 @@ Sou Analista de Dados, pós-graduando em Engenharia de Dados e bacharel em Direi
   
 </div>
 
-
+ -->
