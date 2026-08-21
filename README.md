@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Pablo Alves 👋</h1>
+<h1 align="center">Olá, sou Pablo Alves</h1>
 
 <h3 align="center">Engenheiro de Dados | Desenvolvedor Full-Stack</h3>
 
