@@ -2,12 +2,12 @@
 
 <h3 align="center">Engenheiro de Dados | Desenvolvedor Full-Stack</h3>
 
-<p align="center">
+<p>
   Construo arquiteturas de dados robustas e sistemas corporativos escaláveis. 
   Minha atuação une a precisão técnica da modelagem e qualidade de dados com a visão estratégica de negócios e compliance, herança da minha formação em Direito.
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/pablo-alves-2825b1223/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
@@ -26,7 +26,7 @@
 
 ### 🛠️ Stack Tecnológico
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
