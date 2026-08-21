@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Pablo Alves 👋</h1>
+<h1 align="center">Olá, sou Pablo Alves</h1>
 
 <h3 align="center">Engenheiro de Dados | Desenvolvedor Full-Stack</h3>
 
@@ -9,19 +9,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-alves-2825b1223/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
   <a href="mailto:PabloHAlves99@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
 ### 🚀 Perfil Técnico
-*   **Dados:** Foco em qualidade de dados, modelagem, pipelines e análise estratégica.
-*   **Full-Stack:** Experiência no desenvolvimento de microssistemas corporativos, automação de processos e integração com sistemas legados.
-*   **Mentalidade:** Engenharia orientada a performance, segurança e confiabilidade técnica.
+* **Dados:** Foco em qualidade de dados, modelagem, pipelines e análise estratégica.
+* **Full-Stack:** Experiência no desenvolvimento de microssistemas corporativos, automação de processos e integração com sistemas legados.
+* **Mentalidade:** Engenharia orientada a performance, segurança e confiabilidade técnica.
 
 ### 🛠️ Tecnologias Principais
 
@@ -34,13 +34,14 @@
 </div>
 
 ---
-
-### 📈 GitHub Stats
+<!-- 
+### 📈 Métricas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github" alt="Estatísticas"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlves99&layout=compact&theme=radical&hide=C,Batchfile" alt="Linguagens"/>
-</div>
+  <img src="https://img.shields.io/badge/Commits_2026-Ativo-blue?style=flat-square&logo=github" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositórios-Monorepo-success?style=flat-square&logo=git" alt="Repos" />
+  <img src="https://img.shields.io/badge/Foco-Engenharia_de_Dados-orange?style=flat-square&logo=python" alt="Foco" />
+</div> -->
 
 ---
 
