@@ -19,13 +19,14 @@
 ---
 
 ### 🚀 Perfil Técnico
-* **Dados:** Foco em qualidade de dados, modelagem, pipelines e análise estratégica.
-* **Full-Stack:** Experiência no desenvolvimento de microssistemas corporativos, automação de processos e integração com sistemas legados.
-* **Mentalidade:** Engenharia orientada a performance, segurança e confiabilidade técnica.
 
-### 🛠️ Tecnologias Principais
+*   **Engenharia de Dados:** Foco em qualidade de dados, modelagem, construção de pipelines e análise estratégica.
+*   **Desenvolvimento Full-Stack:** Experiência na criação de microssistemas corporativos, automação de processos e integração com sistemas legados.
+*   **Mindset:** Engenharia orientada a alta performance, governança, segurança e confiabilidade técnica.
 
-<div>
+### 🛠️ Principais Tecnologias
+
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -33,15 +34,15 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-<!-- 
 ---
-### 📈 Métricas do GitHub
+
+### 📈 Métricas e Foco
 
 <div align="center">
   <img src="https://img.shields.io/badge/Commits_2026-Ativo-blue?style=flat-square&logo=github" alt="Commits" />
   <img src="https://img.shields.io/badge/Repositórios-Monorepo-success?style=flat-square&logo=git" alt="Repos" />
   <img src="https://img.shields.io/badge/Foco-Engenharia_de_Dados-orange?style=flat-square&logo=python" alt="Foco" />
-</div> -->
+</div>
 
 ---
 
