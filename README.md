@@ -4,7 +4,7 @@
 
 <p align="center">
   Transformo dados complexos em soluções estratégicas e desenvolvo aplicações web escaláveis. 
-  Minha atuação combina a robustez da <strong>Engenharia de Dados e Qualidade</strong> com a agilidade do desenvolvimento <strong>Full-Stack</strong>.
+  Minha atuação combina a robustez da <strong>Engenharia de Dados</strong> com a agilidade do desenvolvimento <strong>Full-Stack</strong>.
 </p>
 
 <p align="center">
