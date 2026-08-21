@@ -20,8 +20,11 @@
 ### ⚙️ Sobre Mim
 
 * 🎓 **Formação:** Pós-Graduado em Engenharia de Dados. Possuo também graduação em Direito, que atua como um diferencial analítico complementar, me proporcionando uma visão estratégica refinada para interpretar regras de negócio complexas e garantir a conformidade normativa nas aplicações desenvolvidas.
+
 * 📊 **Engenharia de Dados:** Especialista na estruturação de arquiteturas relacionais, modelagem de dados e desenvolvimento de bancos de dados no SQL Server. Construo, gerencio e otimizo rotinas e consultas para garantir alta disponibilidade, escalabilidade e performance no ambiente corporativo.
+
 * 🛡️ **Qualidade de Dados:** Atuo no mapeamento, higienização e governança da informação. Meu foco é garantir a integridade transacional, a padronização e a confiabilidade dos dados armazenados, prevenindo gargalos e otimizando o consumo seguro por ferramentas de Business Intelligence (BI).
+
 * 💻 **Desenvolvimento Full-Stack:** Construo ecossistemas corporativos e painéis gerenciais robustos de ponta a ponta. Domino a criação de lógicas de back-end seguras utilizando PHP e desenvolvo interfaces web responsivas e focadas na usabilidade com JavaScript e Bootstrap 5.
 
 ---
