@@ -1,47 +1,55 @@
-Loading...
+<h1 align="center">Olá, sou Pablo Alves 👋</h1>
 
-<!-- <h1 align="center">Prazer, meu nome é Pablo Alves!</h1>
+<h3 align="center">Engenheiro de Dados | Desenvolvedor Full-Stack</h3>
 
+<p align="center">
+  Transformo dados complexos em soluções estratégicas e desenvolvo aplicações web escaláveis. 
+  Minha atuação combina a robustez da <strong>Engenharia de Dados e Qualidade</strong> com a agilidade do desenvolvimento <strong>Full-Stack</strong>.
+</p>
 
-Sou Analista de Dados, pós-graduando em Engenharia de Dados e bacharel em Direito, com atuação voltada à área de dados e tecnologia.
-
-
-
-  <a href="https://github.com/PabloAlves99" target="_blank">
-    <img height=170em align="center" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github"/>
-  <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-alves-2825b1223/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="mailto:PabloHAlves99@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://github.com/PabloAlves99" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlves99&layout=compact&theme=radical&hide=C,Batchfile"/>
-  </a>
+</p>
 
-  
-<br>
-<div style="display: inline_block:"><br>
-  <a href="https://github.com/PabloAlves99/Python" target="_blank">
-  <img align="center" alt="Pablo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <a href="https://github.com/PabloAlves99/Laravel-VueJs" target="_blank">
-  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
-  </a>  
-  <a href="https://github.com/PabloAlves99/CursoJS" target="_blank">
-  <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>  
-  <a href="https://github.com/PabloAlves99/HTML-CSS" target="_blank">
-  <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  </a>
+---
+
+### 🚀 Perfil Técnico
+*   **Dados:** Foco em qualidade de dados, modelagem, pipelines e análise estratégica.
+*   **Full-Stack:** Experiência no desenvolvimento de microssistemas corporativos, automação de processos e integração com sistemas legados.
+*   **Mentalidade:** Engenharia orientada a performance, segurança e confiabilidade técnica.
+
+### 🛠️ Tecnologias Principais
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
+---
 
-##
+### 📈 GitHub Stats
 
-
-<div> 
-  <a href="https://www.instagram.com/pabloalves99_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "gmail:PabloHAlves99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pablo-alves-2825b1223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PabloAlves99&show_icons=true&theme=radical&hide=issues,contribs&rank_icon=github" alt="Estatísticas"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloAlves99&layout=compact&theme=radical&hide=C,Batchfile" alt="Linguagens"/>
 </div>
 
- -->
+---
+
+### 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloAlves99/PabloAlves99/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PabloAlves99/PabloAlves99/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/PabloAlves99/PabloAlves99/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
