@@ -1,27 +1,27 @@
-<h1 align="center">Olá, sou Pablo Alves 👋</h1>
+<h1 align="center">Olá, sou Pablo Alves</h1>
 
-<h3 align="center">Engenheiro de Dados | Desenvolvedor Full-Stack</h3>
+<h3 align="center">Engenheiro de Dados & Desenvolvedor Full-Stack</h3>
 
 <p align="center">
   Transformo dados complexos em soluções estratégicas e desenvolvo aplicações web escaláveis. 
-  Minha atuação combina a robustez da <strong>Engenharia de Dados e Qualidade</strong> com a agilidade do desenvolvimento <strong>Full-Stack</strong>.
+  Minha atuação une a robustez de pipelines e arquiteturas de dados com a agilidade do ecossistema Full-Stack.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-alves-2825b1223/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a> 
   <a href="mailto:PabloHAlves99@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
 ### 🚀 Perfil Técnico
-*   **Dados:** Foco em qualidade de dados, modelagem, pipelines e análise estratégica.
-*   **Full-Stack:** Experiência no desenvolvimento de microssistemas corporativos, automação de processos e integração com sistemas legados.
-*   **Mentalidade:** Engenharia orientada a performance, segurança e confiabilidade técnica.
+*   **Dados:** Foco em engenharia de dados, qualidade, modelagem analítica e inteligência de negócios.
+*   **Full-Stack:** Desenvolvimento de microssistemas corporativos, automação de processos e integrações robustas.
+*   **Mentalidade:** Engenharia orientada a performance, governança e confiabilidade técnica.
 
 ### 🛠️ Tecnologias Principais
 
