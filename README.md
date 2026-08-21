@@ -3,8 +3,7 @@
 <h3 align="center">Engenheiro de Dados | Desenvolvedor Full-Stack</h3>
 
 <p>
-  Construo arquiteturas de dados robustas e sistemas corporativos escaláveis. 
-  Minha atuação une a precisão técnica da modelagem e qualidade de dados com a visão estratégica de negócios e compliance, herança da minha formação em Direito.
+  Profissional focado na estruturação de dados e no desenvolvimento de sistemas corporativos escaláveis. Utilizo minha sólida base tecnológica para construir arquiteturas de alta performance, contando com minha formação em <strong>Direito</strong> como um complemento analítico estratégico para lidar com regras de negócio e requisitos de <i>compliance</i>.
 </p>
 
 <p>
@@ -18,15 +17,18 @@
 
 ---
 
-### 🚀 Áreas de Expertise
+### ⚙️ Sobre Mim
 
-* **Engenharia e Qualidade de Dados:** Especialista no desenvolvimento de consultas complexas, automação de processos (Triggers, ETL, Jobs) e modelagem relacional. Foco total em governança, performance e entrega de dados estruturados utilizando SQL Server.
-* **Desenvolvimento Full-Stack:** Construção de painéis analíticos e sistemas corporativos integrados. Experiência em back-end com PHP e Python e criação de interfaces responsivas e painéis de usabilidade fluida com JavaScript e Bootstrap 5.
-* **Visão de Negócios e Compliance:** Capacidade analítica para traduzir regras complexas de negócios e requisitos normativos em lógicas de programação sólidas, com forte influência em minha graduação em Direito.
+* 🎓 **Formação:** Pós-Graduado em Engenharia de Dados. Possuo também graduação em Direito, que atua como um diferencial analítico complementar, me proporcionando uma visão estratégica refinada para interpretar regras de negócio complexas e garantir a conformidade normativa nas aplicações desenvolvidas.
+* 📊 **Engenharia de Dados:** Especialista na estruturação de arquiteturas relacionais, modelagem de dados e desenvolvimento de bancos de dados no SQL Server. Construo, gerencio e otimizo rotinas e consultas para garantir alta disponibilidade, escalabilidade e performance no ambiente corporativo.
+* 🛡️ **Qualidade de Dados:** Atuo no mapeamento, higienização e governança da informação. Meu foco é garantir a integridade transacional, a padronização e a confiabilidade dos dados armazenados, prevenindo gargalos e otimizando o consumo seguro por ferramentas de Business Intelligence (BI).
+* 💻 **Desenvolvimento Full-Stack:** Construo ecossistemas corporativos e painéis gerenciais robustos de ponta a ponta. Domino a criação de lógicas de back-end seguras utilizando PHP e desenvolvo interfaces web responsivas e focadas na usabilidade com JavaScript e Bootstrap 5.
+
+---
 
 ### 🛠️ Stack Tecnológico
 
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
